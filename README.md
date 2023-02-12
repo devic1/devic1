@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 **Hi there 👋
-I like to train deep neural nets on large datasets 🧠🤖💥. Among other things :)
+Exploring the depths of neural networks, one layer at a time.
