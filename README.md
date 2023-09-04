@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Exploring the depths of neural networks, one layer at a time.
+Exploring the depths of neural networks
